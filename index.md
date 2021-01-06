@@ -12,9 +12,10 @@
 **What I like**
 
 1. Game
-   -League of Legends
+   - League of Legends
    
   ![](d24336164ae9e2e046f363d7a526fb3.png)
+  
 2. Anime
 3. Write codes
 
