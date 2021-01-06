@@ -2,13 +2,18 @@
 
 ## CSE110 WI21
 
-**Introduction
+**Introduction**
 
 * My name is Yijie. You can call my Steven
 * I am a second-year computer science major at UCSD
 * This is the page for my project in CSE110
 >So this would be fun. I guess
 
+**What I like**
+
+1. Game
+  -League of Legends
+  
 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
