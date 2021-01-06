@@ -1,5 +1,5 @@
 Yijie Ruan's User Page
-C++
+Java
 ### Hi there 👋
 
 <!--
