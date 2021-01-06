@@ -9,7 +9,7 @@
 * This is the page for my project in CSE110
 >So this would be fun. I guess
 
-##What I like
+## **What I like**
 
 1. Game
    - League of Legends
@@ -25,7 +25,7 @@
 
    <img src ="b33a3116e028ca8cd33e0341f044cc8.png" width = "500" height = "700">
 
-##What I am Practicing
+## What I am Practicing
 
 Some basic Git commands are:
 ```
