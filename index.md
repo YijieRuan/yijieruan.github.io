@@ -22,6 +22,7 @@
      - [ ] Kaguya-sama: Love is War Season 3
      - [ ] Cells at Work! 
 3. Write codes
+
    <img src ="b33a3116e028ca8cd33e0341f044cc8.png" width = "500" height = "700">
 
 **What I am Practicing**
