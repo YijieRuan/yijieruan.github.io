@@ -14,7 +14,7 @@
 1. Game
    - League of Legends
    
-  ![](d24336164ae9e2e046f363d7a526fb3.png)
+  <img src ="d24336164ae9e2e046f363d7a526fb3.png" width = "100" height = "10">
   
 2. Anime
 3. Write codes
