@@ -1,20 +1,27 @@
 # Yijie Ruan
 
-## CSE110 WI21
+## CSE110
 
-**Introduction**
+## Professor Powell
+
+**Brief About Myself**
 
 * My name is Yijie. You can call me Steven
 * I am a second-year computer science major at UCSD
 * This is the page for my project in CSE110
 >So this would be fun. I guess
 
-### What I like
+### Hobby
 
 1. Game
    - League of Legends
+     - The game has its magic even though I stayed in Gold for five years.
+     
+  *Let's see if the image works*
    
    <img src ="d24336164ae9e2e046f363d7a526fb3.png" width = "500" height = "700">
+   
+   **Guess it does!!!**
   
 2. Anime
    - To Watch 2021
@@ -27,7 +34,7 @@
 
 ### What I am Practicing
 
-Some basic *Git commands* are:
+Let's see if we can **quote some codes** Some basic *Git commands* are:
 ```
 git status
 git add
